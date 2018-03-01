@@ -8,3 +8,5 @@ a.push(1);
 
 console.log(a.length);
 
+console.log("hello");
+
