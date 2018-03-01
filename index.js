@@ -10,3 +10,5 @@ console.log(a.length);
 
 console.log("hello");
 
+console.log("hello world");
+
